@@ -43,7 +43,6 @@
   <a href = "https://www.latex-project.org/get/">
    <img align = "center" alt= "Latex" heigth = "50" width="70" src="https://i.stack.imgur.com/zHFFO.png" style="max-width100%;" />
   </a>
----
 
 ---
 ### Support me:
