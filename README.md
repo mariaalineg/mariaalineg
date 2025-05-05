@@ -1,6 +1,6 @@
 ### Hi there, I'm Aline 👋
 ---
-### I'm a Mother, Ph.D. student in Electrical Engineering, Developer, and Teacher
+### I'm a Mother, Ph.D. candidate in Electrical Engineering, Developer, and Teacher
 
 - 🔭 I’m currently working on my PhD Thesis
 - 🌱 I’m currently learning Python3
