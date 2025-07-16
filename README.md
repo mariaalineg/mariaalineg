@@ -1,11 +1,7 @@
 ### Hi there, I'm Aline 👋
 ---
-### I'm a Mother, Ph.D. candidate in Electrical Engineering, Developer, and Teacher
+### I'm a Mother, Ph.D. in Electrical Engineering and Teacher
 
-- 🔭 I’m currently working on my PhD Thesis
-- 🌱 I’m currently learning Python3
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with my crazy project ideas
 - 💬 Ask me about: Chaos
 - ⚡ Fun fact: I love to read fiction books and play the piano
 ###### Connect with me: 
